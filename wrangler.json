@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cauldron",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e402bfb2-db63-4482-bd41-d6fc3931fe67",
+      "database_name": "cauldron"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
